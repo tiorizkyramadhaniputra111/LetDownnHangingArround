@@ -1,0 +1,160 @@
+{
+    "komisaris": {
+        "label": "Komisaris",
+        "members": [
+            {
+                "id": 1,
+                "name": "Hadi Gunawan Tjoe",
+                "role": "PRESIDEN KOMISARIS",
+                "image": "images\/MrHadi-Gunawan.jpg",
+                "bio": "Lahir pada tahun 1951. Warga Negara Indonesia. Lulus dari Akademi Bahasa Jakarta, Jakarta, pada tahun 1973. Ditunjuk menjadi Presiden Komisaris pada Rapat Umum Pemegang Saham Tahunan tanggal 22 Mei 2023."
+            },
+            {
+                "id": 2,
+                "name": "Rusmin Ryadi",
+                "role": "WAKIL PRESIDEN KOMISARIS",
+                "image": "images\/MrRusmin.jpg",
+                "bio": "Lahir pada tahun 1948. Warga Negara Indonesia. Lulus dari Fakultas Ekonomi Universitas Indonesia, Jakarta, pada tahun 1985. Ditunjuk menjadi Wakil Presiden Komisaris pada 22 Mei 2023."
+            },
+            {
+                "id": 3,
+                "name": "Suparman S",
+                "role": "KOMISARIS INDEPENDEN",
+                "image": "images\/MrSuparman.jpeg",
+                "bio": "Lahir pada tahun 1946. Warga Negara Indonesia. Lulus dari Akademi Militer Nasional pada tahun 1967."
+            },
+            {
+                "id": 4,
+                "name": "Hendri Murtany",
+                "role": "KOMISARIS INDEPENDEN",
+                "image": "images\/MrHendri.jpg",
+                "bio": "Lahir pada tahun 1954. Warga Negara Indonesia. Lulus sebagai Diploma Akuntansi dari Universitas Tarumanegara pada tahun 1977."
+            }
+        ]
+    },
+    "direksi": {
+        "label": "Direksi",
+        "members": [
+            {
+                "id": 5,
+                "name": "Tjiu Thomas Effendy",
+                "role": "PRESIDEN DIREKTUR",
+                "image": "images\/MrThomas.jpeg",
+                "bio": "Lahir pada tahun 1958. Warga Negara Indonesia. Memperoleh gelar Master of Business Administration dari University of the City of Manila pada tahun 1994."
+            },
+            {
+                "id": 6,
+                "name": "Peraphon Prayooravong",
+                "role": "WAKIL PRESIDEN DIREKTUR",
+                "image": "images\/MrParaphon.jpg",
+                "bio": "Lahir pada tahun 1953. Warga Negara Indonesia. Memperoleh gelar DVM dari Harvard University pada tahun 2001."
+            },
+            {
+                "id": 7,
+                "name": "Ong Mei Sian",
+                "role": "DIREKTUR",
+                "image": "images\/MrOng-Mei.jpg",
+                "bio": "Lahir pada tahun 1962. Warga Negara Indonesia. Lulus dari Business Administration Universitas Parahyangan, Bandung."
+            },
+            {
+                "id": 8,
+                "name": "Jemmy",
+                "role": "DIREKTUR",
+                "image": "images\/MrJemmy.jpg",
+                "bio": "Lahir pada tahun 1976. Warga Negara Indonesia. Lulus dari Ohio State University pada tahun 1997."
+            },
+            {
+                "id": 9,
+                "name": "Eddy Dharmawan Mansjoer",
+                "role": "DIREKTUR",
+                "image": "images\/MrEddy.jpg",
+                "bio": "Lahir pada tahun 1976. Warga Negara Indonesia. Memperoleh gelar BSBA dari Ohio State University tahun 1997."
+            },
+            {
+                "id": 10,
+                "name": "Ferdiansyah Gunawan Tjoe",
+                "role": "DIREKTUR",
+                "image": "images\/MrFerdiansyah.jpg",
+                "bio": "Lahir pada tahun 1980. Warga Negara Indonesia. Gelar Bachelor of Commerce Curtin University tahun 2001."
+            }
+        ]
+    },
+    "audit": {
+        "label": "Komite Audit",
+        "members": [
+            {
+                "id": 11,
+                "name": "Hendri Murtany",
+                "role": "KETUA",
+                "image": "images\/MrHendri.jpg",
+                "bio": "Komisaris Independen Perseroan. Ditunjuk berdasarkan Keputusan Sirkuler Dewan Komisaris tanggal 22 Mei 2023."
+            },
+            {
+                "id": 12,
+                "name": "R. Widarko Hendrai",
+                "role": "ANGGOTA",
+                "image": "images\/MrWidarko.jpeg",
+                "bio": "Lahir pada tahun 1949. Warga Negara Indonesia. Pernah bekerja di Perseroan dari tahun 1977 hingga 2009."
+            },
+            {
+                "id": 13,
+                "name": "Santoso Budiman",
+                "role": "ANGGOTA",
+                "image": "images\/MrSantoso.jpg",
+                "bio": "Lahir pada tahun 1953. Sarjana Muda Universitas Ekonomi Trisakti tahun 1978."
+            }
+        ]
+    },
+    "nominasi": {
+        "label": "KNR",
+        "members": [
+            {
+                "id": 14,
+                "name": "Hendri Murtany",
+                "role": "KETUA",
+                "image": "images\/MrHendri.jpg",
+                "bio": "Komisaris Independen Perseroan. Ketua Komite Nominasi dan Remunerasi."
+            },
+            {
+                "id": 15,
+                "name": "Rusmin Ryadi",
+                "role": "ANGGOTA",
+                "image": "images\/MrRusmin.jpg",
+                "bio": "Wakil Presiden Komisaris Perseroan."
+            },
+            {
+                "id": 16,
+                "name": "Tjipto Adisatrio",
+                "role": "ANGGOTA",
+                "image": "images\/MrTjipto.jpeg",
+                "bio": "Lahir pada tahun 1971. Lulus dari Hochschule fuer Technik Karlsruhe, Germany."
+            }
+        ]
+    },
+    "sekretaris": {
+        "label": "Sekretaris",
+        "members": [
+            {
+                "id": 17,
+                "name": "Hadijanto Kartika",
+                "role": "SEKRETARIS PERUSAHAAN",
+                "image": "images\/UserIcon.jpg",
+                "bio": "Lahir di Semarang pada tahun 1971. Memperoleh gelar Magister Manajemen dari Sekolah Tinggi Manajemen Prasetiya Mulya tahun 1996."
+            },
+            {
+                "id": 18,
+                "name": "M hasbi",
+                "role": "CIO",
+                "bio": "asfafa",
+                "image": "uploads\/management\/member_1767433210.jpeg"
+            },
+            {
+                "id": 19,
+                "name": "Tio Rizky R.P",
+                "role": "CIO",
+                "bio": "Web Developer Enthusiast",
+                "image": "uploads\/management\/member_1768043052.png"
+            }
+        ]
+    }
+}

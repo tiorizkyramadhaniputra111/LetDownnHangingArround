@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Pakan Ternak",
+        "subtitle": "Nutrisi Pertumbuhan",
+        "description": "Menyediakan pakan ayam pedaging (Pre-Starter, Starter, Finisher), ayam petelur, hingga pakan ternak khusus lainnya.",
+        "image": "images\/pakan1.jpeg",
+        "link": "\/produk\/pakan",
+        "tags": [
+            "Ayam Pedaging",
+            "Ayam Petelur"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Day Old Chicks",
+        "subtitle": "Bibit Unggul",
+        "description": "Anak ayam usia sehari kategori Pedaging, Petelur, hingga Pembibit Turunan dengan standar kesehatan tinggi.",
+        "image": "images\/Doc1.jpg",
+        "link": "\/produk\/doc",
+        "tags": [
+            "Pedaging",
+            "Petelur"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Ayam Pedaging",
+        "subtitle": "Budidaya & Kemitraan",
+        "description": "Produksi ayam pedaging melalui lokasi peternakan mandiri maupun pola kemitraan usaha dengan peternak plasma.",
+        "image": "images\/AyamPdg1.jpg",
+        "link": "\/produk\/broiler",
+        "tags": [
+            "Budi Daya",
+            "Plasma"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Makanan Olahan",
+        "subtitle": "Kualitas & Kelezatan",
+        "description": "Produk olahan merek Fiesta, Champ, hingga Okey. Tersedia di Prima Freshmart dan Prima Meat Shop.",
+        "image": "images\/ProdukJadi.png",
+        "link": "\/produk\/makanan-olahan",
+        "tags": [
+            "Fiesta",
+            "Champ"
+        ]
+    }
+]

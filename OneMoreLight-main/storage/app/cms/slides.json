@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Membangun Ketahanan Pangan Nasional",
+    "description": "Berkomitmen menyediakan pangan protein hewani yang berkualitas tinggi, higienis, dan halal untuk masyarakat Indonesia.",
+    "image": "images/visimisi4.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Inovasi Berkelanjutan",
+    "description": "Menerapkan teknologi modern dan praktik ramah lingkungan dalam setiap lini produksi kami.",
+    "image": "images/karosel6.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Tumbuh Bersama Mitra",
+    "description": "Menjalin kemitraan yang saling menguntungkan dengan peternak lokal demi kesejahteraan bersama.",
+    "image": "images/karosel3cp.jpeg"
+  }
+]
